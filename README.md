@@ -1,124 +1,93 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════
-     ANIMATED HEADER — BLACK / GOLD GRADIENT WAVE
+     ANIMATED 3D HEADER — GOLD WAVE
      ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=240&section=header&text=SUDARSAN%20U%20R&fontSize=64&fontColor=D4AF37&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20GenAI%20Builder&descSize=17&descColor=FFFFFF&descAlignY=60&animation=fadeIn&font=Fira+Code" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=260&section=header&text=SUDARSAN%20U%20R&fontSize=68&fontColor=D4AF37&fontAlignY=36&desc=AI%20%2F%20ML%20ENGINEER%20%E2%9C%A6%20FULL%20STACK%20DEVELOPER%20%E2%9C%A6%20GENAI%20BUILDER&descSize=16&descColor=FFFFFF&descAlignY=58&animation=fadeIn&font=Fira+Code" />
 
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════
-     TYPING ANIMATION — WHITE TEXT WITH GOLD ACCENT
+     3D STARS BACKGROUND EFFECT
+     ═══════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/_.gif" width="100%" />
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════
+     TYPING ANIMATION
      ═══════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=D4AF37&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building%20intelligent%20systems%20%F0%9F%A4%96;Training%20models%20that%20actually%20work%20%F0%9F%93%8A;Turning%20data%20into%20decisions%20%F0%9F%92%BC;Full%20Stack%20%E2%9A%A1%20GenAI%20%E2%9A%A1%20MLOps;Engineered%20with%20precision.%20Shipped%20with%20purpose." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=D4AF37&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=Engineering%20Intelligence%20%F0%9F%A4%96;Training%20Models%20That%20Actually%20Ship%20%F0%9F%93%8A;Turning%20Data%20Into%20Decisions%20%F0%9F%92%BC;Full%20Stack%20%E2%9A%A1%20GenAI%20%E2%9A%A1%20MLOps%20%E2%9A%A1;Code%20is%20poetry.%20AI%20is%20the%20spark." alt="Typing SVG" />
   </a>
 </p>
 
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════
-     SOCIAL LINKS — MINIMAL GOLD-ON-BLACK
+     SOCIAL LINKS — 3D GOLD-ON-BLACK
      ═══════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sudarsananarayanan-u-r" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=000000&color=D4AF37" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=000000" alt="LinkedIn" />
   </a>&nbsp;
   <a href="https://github.com/Sudarsan003-max" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000&color=D4AF37" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000" alt="GitHub" />
   </a>&nbsp;
   <a href="mailto:sudarsan003max@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=000000&color=D4AF37" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=000000" alt="Email" />
   </a>&nbsp;
   <a href="https://www.instagram.com/sudarsan_u_r_s/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=D4AF37&labelColor=000000&color=D4AF37" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=D4AF37&labelColor=000000" alt="Instagram" />
   </a>
 </p>
 
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════
-     PROFILE METRICS — CLEAN GOLD BORDER
+     PROFILE METRICS
      ═══════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sudarsan003-max&label=PROFILE+VIEWS&color=D4AF37&style=for-the-badge&labelColor=000000" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Sudarsan003-max?label=FOLLOWERS&style=for-the-badge&color=D4AF37&labelColor=000000&logoColor=D4AF37" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/Sudarsan003-max?label=FOLLOWERS&style=for-the-badge&color=D4AF37&labelColor=000000" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Sudarsan003-max?label=STARS&style=for-the-badge&color=D4AF37&labelColor=000000" alt="Stars" />
 </p>
 
 <br />
-<br />
 
 <!-- ═══════════════════════════════════════════════════════════
-     GOLD DIVIDER
+     3D ANIMATED WAVE DIVIDER
      ═══════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/85225156/171284202-be664b2c-bae6-44db-a3e8-31c4a06cff86.gif" width="100%" />
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════
-     ABOUT ME
-     ═══════════════════════════════════════════════════════════ -->
 <br />
 
+<!-- ═══════════════════════════════════════════════════════════
+     ABOUT ME — 3D GLASS CARD
+     ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" height="28" /> **ABOUT ME**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32" height="32" /> **ABOUT ME**
 
 </div>
+
+<br />
+
+<table align="center" width="80%">
+<tr>
+<td align="center" bgcolor="#0a0a0a" style="border: 1px solid #D4AF37; border-radius: 12px; padding: 28px; box-shadow: 0 0 20px rgba(212, 175, 55, 0.15);">
 
 ```diff
 + 💻 B.Tech CSE (AI & ML) @ SRMIST, Chennai
 + 🧠 Machine Learning · Deep Learning · Generative AI
 + 🌐 Full-Stack Engineer — products that ship to production
-+ 🔬 Currently exploring RAG, LLM fine-tuning & Computer Vision
++ 🔬 Currently exploring: RAG · LLM Fine-tuning · Computer Vision
 + 🎯 Mission: Engineer AI systems that create real-world impact
 + ☕ Fuel: black coffee, clean code, and good documentation
 ```
-
-<br />
-<br />
-
-<!-- ═══════════════════════════════════════════════════════════
-     TECH STACK — LUXURY GRID
-     ═══════════════════════════════════════════════════════════ -->
-<div align="center">
-
-## ⚙️ **TECH UNIVERSE**
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td align="center" valign="top" width="25%" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 8px; padding: 20px;">
-
-### 🧠 **AI / ML**
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" /><br/><br/>
-<sub><b>Python · TensorFlow · PyTorch</b><br/>Scikit-learn · OpenCV · HuggingFace</sub>
-
-</td>
-<td align="center" valign="top" width="25%" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 8px; padding: 20px;">
-
-### 💻 **LANGUAGES**
-<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" /><br/><br/>
-<sub><b>Python · Java · JS · TypeScript</b><br/>C++ · SQL · Bash</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="25%" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 8px; padding: 20px;">
-
-### 🌐 **FULL STACK**
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind&theme=dark" /><br/><br/>
-<sub><b>React · Node.js · MongoDB</b><br/>Express · PostgreSQL · Tailwind CSS</sub>
-
-</td>
-<td align="center" valign="top" width="25%" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 8px; padding: 20px;">
-
-### ☁️ **DEVOPS**
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" /><br/><br/>
-<sub><b>Git · GitHub · Docker</b><br/>VS Code · Linux · Figma</sub>
 
 </td>
 </tr>
@@ -127,7 +96,63 @@
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════
-     GENAI STACK — GOLD-ON-BLACK BADGES
+     TECH STACK — 3D FLOATING CARDS
+     ═══════════════════════════════════════════════════════════ -->
+<div align="center">
+
+## ⚙️ **TECH UNIVERSE**
+
+</div>
+
+<br />
+
+<table align="center" width="95%">
+<tr>
+<td align="center" width="25%" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 12px; padding: 22px;">
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60" /><br/>
+
+### 🧠 **AI / ML**
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" /><br/><br/>
+<sub><b style="color:#D4AF37;">Python · TensorFlow · PyTorch</b><br/>Scikit-learn · OpenCV · HuggingFace</sub>
+
+</td>
+<td align="center" width="25%" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 12px; padding: 22px;">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60" /><br/>
+
+### 💻 **LANGUAGES**
+<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" /><br/><br/>
+<sub><b style="color:#D4AF37;">Python · Java · JS · TypeScript</b><br/>C++ · SQL · Bash</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 12px; padding: 22px;">
+
+<img src="https://media.giphy.com/media/l46Cy1rHbQQ7qbLNNu/giphy.gif" width="60" /><br/>
+
+### 🌐 **FULL STACK**
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind&theme=dark" /><br/><br/>
+<sub><b style="color:#D4AF37;">React · Node.js · MongoDB</b><br/>Express · PostgreSQL · Tailwind</sub>
+
+</td>
+<td align="center" width="25%" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 12px; padding: 22px;">
+
+<img src="https://media.giphy.com/media/XreQmk7ETCak0e3m5h/giphy.gif" width="60" /><br/>
+
+### ☁️ **DEVOPS**
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" /><br/><br/>
+<sub><b style="color:#D4AF37;">Git · GitHub · Docker</b><br/>VS Code · Linux · Figma</sub>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════
+     GENAI STACK
      ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
@@ -147,11 +172,11 @@
 </p>
 
 <br />
-<br />
 
 <!-- ═══════════════════════════════════════════════════════════
-     GITHUB ANALYTICS — DARK CARDS
+     GITHUB ANALYTICS
      ═══════════════════════════════════════════════════════════ -->
+<br />
 <div align="center">
 
 ## 📊 **GITHUB ANALYTICS**
@@ -174,7 +199,6 @@
 </p>
 
 <br />
-<br />
 
 <!-- ═══════════════════════════════════════════════════════════
      TROPHY CASE
@@ -190,23 +214,27 @@
 </p>
 
 <br />
-<br />
 
 <!-- ═══════════════════════════════════════════════════════════
-     FEATURED PROJECTS — EDITORIAL CARDS
+     FEATURED PROJECTS — 3D PROJECT CARDS
      ═══════════════════════════════════════════════════════════ -->
+<br />
 <div align="center">
 
 ## 🚀 **FEATURED WORK**
 
 </div>
 
-<table align="center" width="100%">
+<br />
+
+<table align="center" width="95%">
 <tr>
-<td width="50%" valign="top" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 10px; padding: 24px;">
+<td width="50%" valign="top" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 14px; padding: 26px;">
+
+<img src="https://media.giphy.com/media/3oEjI105rmEC22CJFK/giphy.gif" align="right" width="50" />
 
 ### 🫀 **Heart Disease Predictor**
-#### *Random Forest · Healthcare ML*
+#### *Healthcare ML · Random Forest*
 
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=D4AF37" />
@@ -219,11 +247,13 @@ End-to-end ML pipeline predicting cardiovascular risk from clinical data — pre
 <br/><br/>
 
 <a href="https://github.com/Sudarsan003-max/Major-Project-Internzvalley" target="_blank">
-  <img src="https://img.shields.io/badge/→_VIEW_REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000" />
+  <img src="https://img.shields.io/badge/→_VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000" />
 </a>
 
 </td>
-<td width="50%" valign="top" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 10px; padding: 24px;">
+<td width="50%" valign="top" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 14px; padding: 26px;">
+
+<img src="https://media.giphy.com/media/3o7TKsQ8gqVrXyR5Cw/giphy.gif" align="right" width="50" />
 
 ### ⛓️ **Blockchain Bounty Hunter**
 #### *Web3 · Decentralized Security*
@@ -239,7 +269,7 @@ A decentralized bug bounty platform connecting security researchers with Web3 pr
 <br/><br/>
 
 <a href="https://github.com/Sudarsan003-max/Blockchain---Bounty-Hunter" target="_blank">
-  <img src="https://img.shields.io/badge/→_VIEW_REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000" />
+  <img src="https://img.shields.io/badge/→_VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000" />
 </a>
 
 </td>
@@ -247,56 +277,86 @@ A decentralized bug bounty platform connecting security researchers with Web3 pr
 </table>
 
 <br />
-<br />
 
 <!-- ═══════════════════════════════════════════════════════════
-     CURRENT FOCUS
+     CURRENT FOCUS — 3D ICON CARDS
      ═══════════════════════════════════════════════════════════ -->
+<br />
 <div align="center">
 
 ## 🎯 **CURRENT FOCUS**
 
 </div>
 
-<table align="center" width="100%">
+<br />
+
+<table align="center" width="95%">
 <tr>
-<td align="center" width="25%" valign="top" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 8px; padding: 18px;">
+<td align="center" width="25%" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 12px; padding: 18px;">
 
-🧠<br/><br/>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" /><br/>
 <b style="color:#D4AF37;">DEEP LEARNING</b><br/>
-<sub>CNNs · Transformers · Vision</sub>
+<sub>CNNs · Transformers</sub>
 
 </td>
-<td align="center" width="25%" valign="top" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 8px; padding: 18px;">
+<td align="center" width="25%" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 12px; padding: 18px;">
 
-🤖<br/><br/>
+<img src="https://media.giphy.com/media/l46Cy1rHbQ7qbLNNu/giphy.gif" width="50" /><br/>
 <b style="color:#D4AF37;">GENAI & LLMs</b><br/>
-<sub>RAG · Fine-tuning · Agents</sub>
+<sub>RAG · Fine-tuning</sub>
 
 </td>
-<td align="center" width="25%" valign="top" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 8px; padding: 18px;">
+<td align="center" width="25%" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 12px; padding: 18px;">
 
-🌐<br/><br/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" /><br/>
 <b style="color:#D4AF37;">FULL STACK</b><br/>
-<sub>React · Node · Production</sub>
+<sub>React · Node</sub>
 
 </td>
-<td align="center" width="25%" valign="top" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 8px; padding: 18px;">
+<td align="center" width="25%" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 12px; padding: 18px;">
 
-☁️<br/><br/>
+<img src="https://media.giphy.com/media/XreQmk7ETCak0e3m5h/giphy.gif" width="50" /><br/>
 <b style="color:#D4AF37;">MLOPS</b><br/>
-<sub>Docker · CI/CD · Deploy</sub>
+<sub>Docker · CI/CD</sub>
 
 </td>
 </tr>
 </table>
 
 <br />
+
+<!-- ═══════════════════════════════════════════════════════════
+     FUN SECTION — DEV QUOTE
+     ═══════════════════════════════════════════════════════════ -->
+<br />
+<div align="center">
+
+## 💭 **DEVELOPER PHILOSOPHY**
+
+</div>
+
+<br />
+
+<table align="center" width="80%">
+<tr>
+<td align="center" bgcolor="#0a0a0a" style="border: 1px solid #D4AF37; border-radius: 14px; padding: 30px;">
+
+<img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder&qColor=D4AF37&aColor=FFFFFF&iconColor=D4AF37" alt="Joke Card" />
+
+<br/><br/>
+
+<sub>⚡ *Generated dev joke, refreshed on every visit*</sub>
+
+</td>
+</tr>
+</table>
+
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════
      CTA
      ═══════════════════════════════════════════════════════════ -->
+<br />
 <div align="center">
 
 ## 🤝 **LET'S BUILD SOMETHING**
@@ -337,10 +397,18 @@ A decentralized bug bounty platform connecting security researchers with Web3 pr
 <!-- ═══════════════════════════════════════════════════════════
      FOOTER
      ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=140&section=footer&text=THANKS%20FOR%20VISITING&fontSize=26&fontColor=D4AF37&fontAlignY=55&animation=twinkling&font=Fira+Code" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=160&section=footer&text=THANKS%20FOR%20VISITING%20%E2%9C%A8&fontSize=28&fontColor=D4AF37&fontAlignY=55&animation=twinkling&font=Fira+Code" />
 
 <div align="center">
 
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" /> **END OF TRANSMISSION**
+
+<br/>
+
 <sub style="color:#D4AF37;">★ Crafted with precision by <a href="https://github.com/Sudarsan003-max" style="color:#D4AF37;">Sudarsan003-max</a> ★</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=2&width=200" />
 
 </div>
