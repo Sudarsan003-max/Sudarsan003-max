@@ -66,7 +66,7 @@
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════
-     ABOUT ME — 3D GLASS CARD
+     ABOUT ME — HOLOGRAPHIC 3D PROFILE
      ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
@@ -76,19 +76,132 @@
 
 <br />
 
-<table align="center" width="80%">
+<!-- ═══════════════════════════════════════════════════════════
+     2-COLUMN LAYOUT: PROFILE CARD + BIO TERMINAL
+     ═══════════════════════════════════════════════════════════ -->
+<table align="center" width="95%">
 <tr>
-<td align="center" bgcolor="#0a0a0a" style="border: 1px solid #D4AF37; border-radius: 12px; padding: 28px; box-shadow: 0 0 20px rgba(212, 175, 55, 0.15);">
+<!-- ════════ LEFT: 3D PROFILE CARD ════════ -->
+<td width="32%" valign="top" align="center" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 16px; padding: 0; box-shadow: 0 0 30px rgba(212, 175, 55, 0.2);">
+
+<br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+
+<br/>
+<br/>
+
+<!-- Animated rotating rings around avatar placeholder -->
+<div style="position: relative; display: inline-block;">
+
+<img src="https://github.com/Sudarsan003-max.png" width="140" style="border-radius: 50%; border: 3px solid #D4AF37; box-shadow: 0 0 25px rgba(212, 175, 55, 0.6);" alt="Profile" />
+
+</div>
+
+<br/>
+<br/>
+
+<b style="color:#D4AF37; font-size: 20px; letter-spacing: 2px;">SUDARSAN U R</b>
+<br/>
+<sub style="color:#FFFFFF;">⚡ AI/ML Engineer · Builder</sub>
+
+<br/>
+<br/>
+
+<!-- Decorative stats row inside card -->
+<table width="100%" cellpadding="8" style="border-top: 1px solid #D4AF37;">
+<tr style="color:#D4AF37;">
+<td align="center"><b>🎓</b><br/><sub style="color:#FFFFFF;">B.Tech AIML</sub></td>
+<td align="center" style="border-left: 1px solid #D4AF37; border-right: 1px solid #D4AF37;"><b>📍</b><br/><sub style="color:#FFFFFF;">Chennai, IN</sub></td>
+<td align="center"><b>🚀</b><br/><sub style="color:#FFFFFF;">2026</sub></td>
+</tr>
+</table>
+
+<br/>
+
+</td>
+
+<!-- ════════ RIGHT: ANIMATED TERMINAL BIO ════════ -->
+<td width="68%" valign="top" bgcolor="#0a0a0a" style="border: 1px solid #D4AF37; border-radius: 16px; padding: 24px; box-shadow: 0 0 30px rgba(212, 175, 55, 0.2);">
+
+<!-- Terminal-style header with traffic lights -->
+<table width="100%">
+<tr>
+<td>
+<span style="color:#FF5F56;">●</span>&nbsp;
+<span style="color:#FFBD2E;">●</span>&nbsp;
+<span style="color:#27C93F;">●</span>
+<sub style="color:#888888; margin-left: 10px;">~/about-me.sh</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+```yaml
+┌─────────────────────────────────────────────────────┐
+│  👤  IDENTITY                                        │
+├─────────────────────────────────────────────────────┤
+│  Name     : Sudarsana Narayanan U R                  │
+│  Role     : AI/ML Engineer · Full-Stack Developer    │
+│  Focus    : GenAI · LLMs · Production ML             │
+│  Mindset  : Build → Ship → Iterate                   │
+└─────────────────────────────────────────────────────┘
+```
+
+<br/>
 
 ```diff
-+ 💻 B.Tech CSE (AI & ML) @ SRMIST, Chennai
 + 🧠 Machine Learning · Deep Learning · Generative AI
 + 🌐 Full-Stack Engineer — products that ship to production
-+ 🔬 Currently exploring: RAG · LLM Fine-tuning · Computer Vision
++ 🔬 Currently exploring RAG, LLM fine-tuning & Computer Vision
 + 🎯 Mission: Engineer AI systems that create real-world impact
 + ☕ Fuel: black coffee, clean code, and good documentation
 ```
 
+<br/>
+
+<!-- Quote with gold accent -->
+<table width="100%">
+<tr>
+<td style="border-left: 3px solid #D4AF37; padding-left: 14px;">
+
+<sub style="color:#FFFFFF;"><i>"The result: <b style="color:#D4AF37;">measurable control</b> instead of constant reaction."</i></sub>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     QUICK STATS BAR — 4 GOLD BORDERED TILES
+     ═══════════════════════════════════════════════════════════ -->
+<table align="center" width="95%">
+<tr>
+<td align="center" width="25%" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 10px; padding: 16px;">
+<img src="https://media.giphy.com/media/3oEjI105rmEC22CJFK/giphy.gif" width="38" /><br/>
+<b style="color:#D4AF37; font-size: 22px;">15+</b><br/>
+<sub style="color:#FFFFFF;">Projects Shipped</sub>
+</td>
+<td align="center" width="25%" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 10px; padding: 16px;">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="38" /><br/>
+<b style="color:#D4AF37; font-size: 22px;">∞</b><br/>
+<sub style="color:#FFFFFF;">Cups of Coffee</sub>
+</td>
+<td align="center" width="25%" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 10px; padding: 16px;">
+<img src="https://media.giphy.com/media/3o7TKsQ8gqVrXyR5Cw/giphy.gif" width="38" /><br/>
+<b style="color:#D4AF37; font-size: 22px;">24/7</b><br/>
+<sub style="color:#FFFFFF;">Learning Mode</sub>
+</td>
+<td align="center" width="25%" bgcolor="#000000" style="border: 1px solid #D4AF37; border-radius: 10px; padding: 16px;">
+<img src="https://media.giphy.com/media/XreQmk7ETCak0e3m5h/giphy.gif" width="38" /><br/>
+<b style="color:#D4AF37; font-size: 22px;">100%</b><br/>
+<sub style="color:#FFFFFF;">Ship-It Energy</sub>
 </td>
 </tr>
 </table>
